@@ -1,8 +1,10 @@
 # Network Information Batch Script OR RUN THE .EXE OF Network Information   
 
-# CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
-
 This is a simple batch script for Windows that displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
+
+# YOU CAN USE THE .EXE TO RUN THIS APPLICATION
+
+# CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
 
 ## Usage
 
