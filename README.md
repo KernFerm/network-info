@@ -1,4 +1,4 @@
-# Network Information Batch Script
+# Network Information Batch Script OR RUN THE .EXE OF Network Information
 
 This is a simple batch script for Windows that displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
 
