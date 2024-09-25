@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 ## 📥 How to Download the Repo (First-Time Users)
 
 Click the link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo) 📄.
