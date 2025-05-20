@@ -48,3 +48,6 @@ Here's a breakdown of what each line in the script does:
 ipconfig.exe /all     # Displays all current TCP/IP network configuration values and refreshes DHCP and DNS settings
 pause                 # Waits for the user to press a key before closing the command prompt window
 ```
+
+
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
